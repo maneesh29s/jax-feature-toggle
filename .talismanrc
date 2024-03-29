@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: feature_toggle_jax.ipynb
+  checksum: 9b64314bd343dd78903814745f4281eda92fdb996f65cf1a778dcf6ac5fb889f
+version: "1.0"
